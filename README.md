@@ -1,4 +1,4 @@
-# Mina Protocol zkApp Tutotial
+# Mina Protocol zkApp Tutorial
 
 In this tutorial, we will code a zkApp step by step, from start to finish.
 
